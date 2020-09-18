@@ -1,0 +1,7 @@
+C:\Users\mimae\source\repos\ProgrammingTask\Task_TransposeData\Task_TransposeData\bin\Debug\Task_TransposeData.exe.config
+C:\Users\mimae\source\repos\ProgrammingTask\Task_TransposeData\Task_TransposeData\bin\Debug\Task_TransposeData.exe
+C:\Users\mimae\source\repos\ProgrammingTask\Task_TransposeData\Task_TransposeData\bin\Debug\Task_TransposeData.pdb
+C:\Users\mimae\source\repos\ProgrammingTask\Task_TransposeData\Task_TransposeData\obj\Debug\Task_TransposeData.csprojAssemblyReference.cache
+C:\Users\mimae\source\repos\ProgrammingTask\Task_TransposeData\Task_TransposeData\obj\Debug\Task_TransposeData.csproj.CoreCompileInputs.cache
+C:\Users\mimae\source\repos\ProgrammingTask\Task_TransposeData\Task_TransposeData\obj\Debug\Task_TransposeData.exe
+C:\Users\mimae\source\repos\ProgrammingTask\Task_TransposeData\Task_TransposeData\obj\Debug\Task_TransposeData.pdb
